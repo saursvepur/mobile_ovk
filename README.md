@@ -1,4 +1,4 @@
-# VeourOVK Mobile (theme)
+# VepurOVK Mobile (theme)
 Fork mobile theme for VepurOVK & OpenVK that ~~cosplays~~ imitates the old m.vk.com design. _Only modern browsers supported._
 
 ### Installation
